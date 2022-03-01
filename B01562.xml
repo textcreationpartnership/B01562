@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the printery at Finsbury, concerning printing of the Bible ...</title>
+            <author>Bentley, William printer at Finsbury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01562</idno>
+            <idno type="STC">Wing B1943B</idno>
+            <idno type="STC">ESTC R173479</idno>
+            <idno type="EEBO-CITATION">51784369</idno>
+            <idno type="OCLC">ocm 51784369</idno>
+            <idno type="VID">174795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174795)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2698:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the printery at Finsbury, concerning printing of the Bible ...</title>
+                  <author>Bentley, William printer at Finsbury.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Bentley by Wing (2nd ed.)</note>
+                  <note>Imperfect: broadside cropped with some loss of text.</note>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Printing --  England --  17th century --  Sources.</term>
+               <term>Printing industry --  England --  17th century --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174795:1"/>
+            <pb facs="tcp:174795:1" rendition="simple:additions"/>
+            <head>The Caſe of the Printery at Finsbury, concerning Printing of the Bible, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the <hi>holy Bible,</hi> (being the revealed Word of God,) is the pure <hi>fountain</hi> of true <hi>Religion,</hi> ſo it hath been conſtantly defended by no other Pa<g ref="char:EOLunhyphen"/>tronage in <hi>England,</hi> than of the Supream Magiſtrates, and Authorities thereof, ever ſince the firſt Renunciation of the <hi>Popes</hi> Supremacy in <hi>H.</hi> 8 time, and the bleſſed Reformation of Religion by <hi>Ed.</hi> 6. and Q. <hi>Eliz.</hi> The primitive Tranſlation whereof into Engliſh was made in <hi>H.</hi> 8. time<g ref="char:punc">▪</g> Which being reviſed afterwards in the Reign of <hi>E.</hi> 6. was appointed to be printed only <hi>cum privilegio Regali;</hi> being the Nationall and common Evidence of our Religion; and ſuch a ſacred Book, and of that Univerſall concernment, and honorable eſtimation, that it cannot properl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and politically be printed or divulged under any other inferiour Title, than of the Royall and Supream Authority it ſelf, in any Dominio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatſoever.</p>
+            <p>In <hi>Q. Eliz.</hi> time <hi>(propter emendatiorem verborum proprietatem)</hi> another Review was made of the Bible, and the printing thereof <hi>(inter alia)</hi> granted b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Patent</hi> 8. <hi>Auguſt.</hi> 31. <hi>Eliz.</hi> to <hi>Chriſtopher Barker</hi> for his life: which was alſo renewed and confirmed to him, 10. <hi>Maii</hi> 1. <hi>Jac.</hi> After which, a ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tranſlation, (publiſhed in 1611.) was made by that Kings ſpeciall command; The charges whereof (as it is probable) were ſolely defrayed by <hi>Chriſtopher Barker.</hi> Fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a full compenſation whereof the King 11. <hi>Febr.</hi> 14. of his reign, did royally grant alſo to <hi>Robert Barker</hi> (after <hi>Chriſtopher</hi>'s death,) the ſole Liberty to print Bibles <hi>(int<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> alia)</hi> for his life; and to his Aſſigns for 30. years in reverſion, the ſame being a moſt noble and Prince-like Conceſſion, and Remuneration.</p>
+            <p>All which Patents and the benefit thereof were afterwards, in conſideration of a valuable ſumme of money, aſſigned by <hi>Barker</hi> to <hi>Bonham Norton,</hi> and <hi>John Bill;</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with their Aſſigns enjoyed the priviledge thereof, till the Grants and Limitations of the Patents, were either forfeited to the State by default of the Patentees, or expire<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in time about the year 1643. And ſo the Authority of printing Bibles reverted to the State, as their abſolute, and originall Right to order and direct the ſame for t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> future.</p>
+            <p>However, not onely the Orthography of that laſt Tranſlation, but alſo the propriety of many Texts, being impeached by ſeverall learned men, to be different from t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Original Tongues, a Reviſe was made at <hi>Cambridge,</hi> in 1628. <hi>Mandato regio,</hi> and upon ſolemn debate at the Council-table, and an Edition thereof in <hi>Folio,</hi> publiſhed a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> printed in 1629. by the Univerſity Printers, with very much correction and amendment; But the moſt exact and authentick Edition printed there, was ſet forth in <hi>Fo<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> in 1638. being various from the <hi>London</hi> Bibles in many Thouſand places of the Text, beſides the Addition of above 500. Parallel-places of the Old and New Teſtament <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Margin, with generall approbation of our Orthodox Divines. In honour whereof the Bibles and Teſtaments printed ſince at <hi>London,</hi> or <hi>Cambridge</hi> have been chiefly <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not altogether, corrected and reviſed thereby.</p>
+            <p>In 1643. Bible-printing ceaſing at <hi>London</hi> by the abſence of the late Kings Printers, and the prices of the Books being advanced to very dear rates, to the great diſcommo<g ref="char:EOLunhyphen"/>dity of the Common-wealth, the Dutch thereupon printed in, and imported from <hi>Holland</hi> great numbers of Engliſh Bibles, ſelling them for cheaper prices; but ſo cor<g ref="char:EOLunhyphen"/>ruptly and blaſphemouſly printed, that upon report of three faults therein only, made to the Parliament by the Aſſembly of Divines, the Books were then ſeized, and pub<g ref="char:EOLunhyphen"/>lickly burnt; and the future Importation of Engliſh Bibles, (for due encouragement of our own native Printers,) prohibited with greater ſeverity, than by any form Statutes or Proviſions, by Order of the Lords and Commons 14. <hi>Jun.</hi> 1643.</p>
+            <p>For remedy of which Inconvenience, and better ſupply of the Common-wealth, the ſaid Aſſembly by direction of the Parliament, treated with divers of the m<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eminent Stationers of <hi>London,</hi> to undertake the future printing of Bibles and Pſalmes at moderate rates; who alledging they could not vend them under 4<hi rend="sup">s</hi>. 6<hi rend="sup">d</hi>. <hi>per</hi> b<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in quires, declined that honourable work: Whereupon they engaged <hi>William Bentley</hi> Printer, and his Partners to erect their Printery at <hi>Finsbury</hi> for that ſervice; wh<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they printed five conſiderable Impreſſions of Bibles (corrected by the <hi>Cambridge</hi>-Bible only) in 1646.48, <hi>&amp;c.</hi> affording them with Pſalms at farre cheaper rates than forme<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they were ſold, and furniſhing the Army, by ſpeciall Order of the State, as appears by the Title-pages, upon their Advances to <hi>Ireland</hi> and <hi>Scotland</hi> in 1649. and 50. w<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 9000. Bibles (with References) and Pſalmes in 8<hi rend="sup">o</hi>. (part bound in leather, and part in quires,) for leſſe than 2<hi rend="sup">s</hi>. <hi>per</hi> book.</p>
+            <p>In the Act of 20. <hi>Sept.</hi> 1649. for the better regulating of Printing in generall, and encouragement of <hi>Bentley</hi> and his Partners, there is an expreſſe and explicite Prov<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made by way of exception of the Printing-preſſe in <hi>Finsbury,</hi> then and now uſed for printing of Bibles and Pſalms, from all the reſtrictions and clauſes of that Act, a<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it had never been had or made; Which being but temporary, was revived and continues in force by the Act of 7. <hi>Jan.</hi> 1652. Before the paſſing whereof, <hi>Robert Barker</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> younger put in a ſpeciall Proviſo for the ſole printing of the Bible, upon pretence of having the tranſlated Copy thereof (made in 1611.) in his hands; which was t<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> read and debated, and being put to the Queſtion, was (after the reading of <hi>Bentley</hi>'s Petition to preſerve his priviledge) caſt out with a Negative vote; the Parliament <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>terly rejecting the deſign of ſuch a Monopoly.</p>
+            <p>
+               <hi>Barker</hi> being thus diſappointed in his Project, procured afterwards a pretended, ſuperannuated Licencers hand, to warrant and authorize that Copy, as if it were a p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vate Copy of ſome particular mans works, and thereupon attempted to enter it under that qualification in the Regiſter-book of the Company of Stationers, according <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a formall uſage amongſt them for other books, and by pretence of a Clauſe for due Entries of ſuch common books in the Act of 20. <hi>Sept.</hi> 1649. But his late Highneſſe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Warrant, ſigned by Mr. Secretary <hi>Thurloe,</hi> 22. <hi>Martii</hi> 1654. inhibited the Maſter and Wardens of that Company from admitting thereof, upon juſt ground of ſecuring <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Right of the Common-wealth, claimed by his Highneſſe in the Bible.</p>
+            <p>Then <hi>Barker,</hi> by the mediation of Mr. <hi>Marchamont Needham,</hi> ſold the ſeverall Tomes of K. <hi>James</hi>'s tranſlation to <hi>Henry Hills</hi> and <hi>John Field</hi> Printers, by ſuppoſition <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an abſolute and private title and Intereſt therein; (when as in truth they were but concredited to his father in K. <hi>James</hi>'s time, in order to the firſt compoſing and print<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof by the King's priviledge, and never afterwards regarded other then as looſe ſheets, blurred and defaced, till they were paſted and collected together by Mr. <hi>R<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Norton,</hi> and by ſome caſualty hapned into <hi>Barkers</hi> poſſeſſion out of his hands:) And then in <hi>Febr.</hi> 1655. <hi>Hills</hi> and <hi>Field</hi> inſinuated to make an Entrance alſo in that Reg<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof, as their private Copy; but were denyed upon admiſſion of ſeverall Caveats of <hi>Bentley,</hi> and others put in againſt them, upon juſt and legall grounds. Where<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on (notwithſtanding the former proceedings of Parliament, the Interdiction of his Highneſſe, the ſaid Caveats never decided, and the common Cuſtome of the Stat<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ners Company to the contrary,) a Warrant dated 4. <hi>Martii</hi> 1655. ſigned in his Highneſs's name by Mr. Secretary <hi>Thurloe,</hi> was directed to the ſaid Maſter and Warden <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> taking off the ſaid Reſtraint, and commanding them duly to enter for <hi>Hills</hi> and <hi>Field</hi> that Copy, being in their actual poſſeſſion, as the lawfull owners thereof: Upon wh<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they demurred, and drew up reaſons for prevention thereof. But being threatned with Impriſonment, and upon receipt of another Warrant, dated 6. <hi>Martii</hi> follow<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (procured under his Highneſſes Privy Signet) to the ſame effect, an Entry was poſitively made accordingly; Whereby the Bible hath been ever ſince, and ſtill is, n<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> irrationally and by uſurpation, claimed by <hi>Hills</hi> and <hi>Field,</hi> as their private and peculiar Copy; which to none of the <hi>Barkers</hi> was ever permitted, nor any of them da<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſingularly to challenge in the late Kings reigns. From whence it may be well inferred, that his Highneſſe and the Secretary were ſurprized, and abuſed in the ſubſtances <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> circumſtance of the buſineſſe; but however the Common-wealth in generall, and <hi>Bentley,</hi> and many others in particular have been notoriouſly injured, and oppreſſed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſince; as ſhall plainly be demonſtrated.</p>
+            <p>For that <hi>Hills</hi> and <hi>Field</hi> 7. <hi>Martii</hi> 1655. by pretext of Deputations from Sir <hi>John Barkſtead</hi> and Mr. <hi>Foxcroft,</hi> giving them power onely to ſearch for ſcandalous and u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cenſed newes-Books and Pamphlets againſt the State, did not onely ſuppreſſe all others then commonly engaged in printing Bibles and Teſtaments; but contrary to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expreſſe purport of their Deputations and Judgements of thoſe Commiſſioners, (which they have ſince 28. <hi>Martii</hi> 1657. declared under hand and Seal, in purſuan<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſaid Acts of Parliament, and revoked and annulled thoſe Deputations,) violently then, and 28. <hi>Auguſt,</hi> and ſeverall other times in 1656. with Souldiers armed, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without any civil Officer, break open and enter <hi>Bentley</hi>'s Printery, and diſſeize him of ſeverall Inſtruments and materialls imployed in work upon Bible-printing on<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> carrying them to Stationers Hall, and falſely and ſcandalouſly reporting, they were at work upon the Parliament of <hi>Ladies:</hi> And ſince the death of the late Protector <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 9. <hi>Sept.</hi> laſt, by pretext of a Warrant under the Privy Signet to ſearch for ſcandalous and unlicenſed News-Books and Pamphlets onely, dated 1. <hi>Julii</hi> alſo laſt paſt (in it <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then abſolutely void and ineffectuall by his Highneſs's death,) <hi>Hills</hi> and <hi>Field</hi> (with 8. or 10. Souldiers armed and ſwords drawn, no reſiſtance being made,) entred again<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <hi>Bentley</hi>'s Printery, and forcibly carried away other like Materialls uſed in Bible-printing onely. Which Actions are not onely contrary to the ancient and fundame<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Laws and Liberties of the people, but an expreſſe Judgement in Parliament 27. <hi>Octob.</hi> 1641. (in the Caſe of <hi>William Aſton</hi> Printer, againſt the Company of Station<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the ſaid Acts for regulating of printing; and yet do they not ſurceaſe their menacing threats, out of their confidence in their great friends and purſe, (as is cred<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reported,) as if they were lawleſſe, and above the correction of all Authority.</p>
+            <p>This being the Caſe in fact, and the Common-wealth ſo much damnified and abuſed by <hi>Hills</hi> and <hi>Field</hi>'s monopolizing, and inhanſing the prices of their Bibles (tho<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> falſely and blaſphemouſly printed,) to exceſſive rates, ſuppreſſing and obſtructing <hi>Bentley</hi> under pretext of his printing their private Copy.</p>
+            <p>It is humbly propoſed for redreſſe,</p>
+            <list>
+               <item>I. <hi>That the future printing of Bibles may no longer be tollerated to reſide in the hands of</hi> Hills <hi>and</hi> Field <hi>onely, as ſole Proprietors thereof, ſince that it intends ſo much to the diſho<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and dammage of the Common-wealth.</hi>
+               </item>
+               <item>II. <hi>Nor let looſe to the extravagant liberty of all, or any of the Stationers Company (being Bookſellers or Binders, and no Printers,) as of late yeares it was, and is again by <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of them deſigned, and attempted; It being profit in exchange or ſale, and not the well-printing of a book, that they familiarly reſpect.</hi>
+               </item>
+               <item>III. <hi>But that</hi> Bentley <hi>and his Partners, and ſuch other honeſt, able and careful Maſter-Printers, as merit the favour of his Highneſſe and the Parliament, (not exceeding ſome com<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> number) may be hereafter delegated, and permitted, under their priviledge onely, to print the Bible, as in their grave wiſdomes (for good correction, workmanſhip, and price,) <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be requiſitely held meet. Which as is humbly conceived, will be the beſt method for the future ordering and accompliſhing that honourable and conſiderable work notwithſtanding a<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſpecious pretences of any perſons to the contrary.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
